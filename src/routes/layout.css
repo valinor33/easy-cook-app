@@ -1,0 +1,18 @@
+.wrapper {
+  box-sizing: border-box;
+  aspect-ratio: 9 / 16;
+  width: 400px;
+  max-width: 100%;
+  display: block;
+  box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  position: relative;
+  background-color: white;
+  padding: 20px 30px;
+}
+
+footer {
+  position: absolute;
+  bottom: 30px;
+  left: 20px;
+}
